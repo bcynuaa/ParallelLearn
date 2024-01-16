@@ -1,0 +1,1 @@
+mpiexecjl -n 4 julia reduce.jl
